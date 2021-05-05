@@ -4,3 +4,5 @@ There are two types of data types in java
  1. Primitive Data Type :
  1.1 Boolean
  1.2 Numeric
+ 
+ Thank You
