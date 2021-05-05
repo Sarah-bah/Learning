@@ -2,12 +2,15 @@ There are two types of data types in java
 1. Primitive
 2. Non Primitive
  1. Primitive Data Type :
- 1.1 Boolean
- 1.2 Numeric
- 
+ Sarah-bah-patch-1
+ 1.1 Boolean :
+ 1.2 Numeric : Numeric Data type is of two types: a. Character 
+                                                  b. Integral
+
  2. Non Primitive Data Type: User Defined Data Type
  1 String
  2 Array
  3.Class
  4. Structure
  5. Union
+ Thank You
